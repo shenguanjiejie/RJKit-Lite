@@ -4,7 +4,7 @@ s.name         = "RJKit-Lite"
 s.version      = "0.0.0.1"
 s.summary      = "RJKit-Lite"
 s.homepage     = "https://github.com/shenguanjiejie/RJKit-Lite"
-s.license = { :type => 'MIT', file => 'LICENSE'}
+s.license = { :type => 'MIT'}
 s.author             = { "shenguanjiejie" => "835166018@qq.com" }
 s.social_media_url   = "https://github.com/shenguanjiejie"
 s.platform     = :ios, "10.0"

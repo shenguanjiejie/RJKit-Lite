@@ -1,0 +1,130 @@
+Script started on Fri Jan 26 12:47:58 2018
+[1m[7m%[27m[1m[0m                                                                                                              ]2;shenruijie@shenruijie-iMac: ~/Desktop/meiyuexiu_old/MeiYue/Tools/mskit]1;..e/Tools/mskit[0m[27m[24m[J
+[1m[34m#[00m [36mshenruijie [37m@ [32mshenruijie-iMac [37min [1m[33m~/Desktop/meiyuexiu_old/MeiYue/Tools/mskit[00m [37mon[00m git:[36mmaster [31mx[00m [37m[12:47:58] 
+[1m[31m$ [00m[K[?1h=[?2004hscript reload(modulename)[25Dopen ~/.lldbinit         [9D[?1l>[?2004l
+]2;open ~/.lldbinit]1;open[1m[7m%[27m[1m[0m                                                                                                              ]2;shenruijie@shenruijie-iMac: ~/Desktop/meiyuexiu_old/MeiYue/Tools/mskit]1;..e/Tools/mskit[0m[27m[24m[J
+[1m[34m#[00m [36mshenruijie [37m@ [32mshenruijie-iMac [37min [1m[33m~/Desktop/meiyuexiu_old/MeiYue/Tools/mskit[00m [37mon[00m git:[36mmaster [31mx[00m [37m[12:48:15] 
+[1m[31m$ [00m[K[?1h=[?2004hbbrew update[?1l>[?2004l
+]2;brew update]1;brewfatal: unable to access 'https://github.com/Homebrew/homebrew-core/': LibreSSL SSL_read: SSL_ERROR_SYSCALL, errno 54
+fatal: unable to access 'https://github.com/caskroom/homebrew-cask/': LibreSSL SSL_read: SSL_ERROR_SYSCALL, errno 54
+[4;31mError[0m: Fetching /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core failed!
+Fetching /usr/local/Homebrew/Library/Taps/caskroom/homebrew-cask failed!
+[1m[7m%[27m[1m[0m                                                                                                              ]2;shenruijie@shenruijie-iMac: ~/Desktop/meiyuexiu_old/MeiYue/Tools/mskit]1;..e/Tools/mskit[0m[27m[24m[J
+[1m[34m#[00m [36mshenruijie [37m@ [32mshenruijie-iMac [37min [1m[33m~/Desktop/meiyuexiu_old/MeiYue/Tools/mskit[00m [37mon[00m git:[36mmaster [31mx[00m [37m[12:53:37] C:[31m1[00m
+[1m[31m$ [00m[K[?1h=[?2004hbrew update[?1l>[?2004l
+]2;brew update]1;brewUpdated 2 taps (caskroom/cask, homebrew/core).
+[34m==>[0m [1mNew Formulae[0m
+container-diff              libccd                      nyx                         zig
+[34m==>[0m [1mUpdated Formulae[0m
+[1mcocoapods [32m✔[0m[0m           darksky-weather       git-town              leptonica             quicktype
+[1mgcc [32m✔[0m[0m                 dbhash                gitlab-runner         libhttpseverywhere    redis
+[1mgit [32m✔[0m[0m                 dep                   go                    libraw                rgbds
+[1msqlite [32m✔[0m[0m              digdag                godep                 librsvg               roswell
+[1mwget [32m✔[0m[0m                dlib                  goenv                 libtomcrypt           saldl
+abcm2ps               dmd                   gollum                libvpx                shfmt
+abcmidi               dssim                 gutenberg             mariadb-connector-c   sip
+apibuilder-cli        dub                   heroku                mercurial             snappystream
+awscli                duplicity             highlight             micropython           socat
+babl                  emscripten            hugo                  mingw-w64             sops
+bench                 envconsul             hyperscan             mlt                   sqldiff
+bind                  etcd                  imagemagick           nco                   sqlite-analyzer
+bit                   etsh                  imagemagick@6         nss                   sslyze
+calabash              faas-cli              imagesnap             openrtsp              streamlink
+chromaprint           flow                  jenkins               orc-tools             superlu
+clojure               fn                    just                  paket                 termius
+cloog                 folly                 kedge                 parallel              tokei
+conan                 freeswitch            khard                 pdal                  tomcat
+consul                fwup                  knot-resolver         pdnsrec               traefik
+cromwell              gcc@4.9               kompose               planck                transmission
+crowdin               gcc@5                 kotlin                pmd                   vala
+cryfs                 gegl                  kubernetes-helm       pre-commit            vis
+cryptopp              geoserver             ldns                  pwntools              w3m
+curl                  git-ftp               leaps                 pyqt                  wtf
+[34m==>[0m [1mDeleted Formulae[0m
+gmp@4             isl@0.12          isl@0.14          libmpc@0.8        mpfr@2            pcap_dnsproxy
+[1m[7m%[27m[1m[0m                                                                                                              ]2;shenruijie@shenruijie-iMac: ~/Desktop/meiyuexiu_old/MeiYue/Tools/mskit]1;..e/Tools/mskit[0m[27m[24m[J
+[1m[34m#[00m [36mshenruijie [37m@ [32mshenruijie-iMac [37min [1m[33m~/Desktop/meiyuexiu_old/MeiYue/Tools/mskit[00m [37mon[00m git:[36mmaster [31mx[00m [37m[14:17:32] 
+[1m[31m$ [00m[K[?1h=[?2004h[7mrm '/usr/local/bin/pod'[27m[23D[27mr[27mm[27m [27m'[27m/[27mu[27ms[27mr[27m/[27ml[27mo[27mc[27ma[27ml[27m/[27mb[27mi[27mn[27m/[27mp[27mo[27md[27m'[?1l>[?2004l
+]2;rm '/usr/local/bin/pod']1;rmoverride rwxr-xr-x  root/admin for /usr/local/bin/pod? y
+[1m[7m%[27m[1m[0m                                                                                                              ]2;shenruijie@shenruijie-iMac: ~/Desktop/meiyuexiu_old/MeiYue/Tools/mskit]1;..e/Tools/mskit[0m[27m[24m[J
+[1m[34m#[00m [36mshenruijie [37m@ [32mshenruijie-iMac [37min [1m[33m~/Desktop/meiyuexiu_old/MeiYue/Tools/mskit[00m [37mon[00m git:[36mmaster [31mx[00m [37m[14:20:19] 
+[1m[31m$ [00m[K[?1h=[?2004h[7mbrew link --overwrite --dry-run cocoapods[27m[41D[27mb[27mr[27me[27mw[27m [27ml[27mi[27mn[27mk[27m [27m-[27m-[27mo[27mv[27me[27mr[27mw[27mr[27mi[27mt[27me[27m [27m-[27m-[27md[27mr[27my[27m-[27mr[27mu[27mn[27m [27mc[27mo[27mc[27mo[27ma[27mp[27mo[27md[27ms[?1l>[?2004l
+]2;brew link --overwrite --dry-run cocoapods]1;brewWould remove:
+/usr/local/bin/xcodeproj
+[1m[7m%[27m[1m[0m                                                                                                              ]2;shenruijie@shenruijie-iMac: ~/Desktop/meiyuexiu_old/MeiYue/Tools/mskit]1;..e/Tools/mskit[0m[27m[24m[J
+[1m[34m#[00m [36mshenruijie [37m@ [32mshenruijie-iMac [37min [1m[33m~/Desktop/meiyuexiu_old/MeiYue/Tools/mskit[00m [37mon[00m git:[36mmaster [31mx[00m [37m[14:20:28] 
+[1m[31m$ [00m[K[?1h=[?2004h[7mbrew link[27m[9D[27mb[27mr[27me[27mw[27m [27ml[27mi[27mn[27mk[?1l>[?2004l
+]2;brew link]1;brew[1mbrew[0m [1mln[0m, [1mlink[0m [[1m--overwrite[0m] [[1m--dry-run[0m] [[1m--force[0m] [4mformula[0m:
+    Symlink all of [4mformula[0m's installed files into the Homebrew prefix. This
+    is done automatically when you install formulae but can be useful for DIY
+    installations.
+
+    If [1m--overwrite[0m is passed, Homebrew will delete files which already exist in
+    the prefix while linking.
+
+    If [1m--dry-run[0m or [1m-n[0m is passed, Homebrew will list all files which would
+    be linked or which would be deleted by [1mbrew link --overwrite[0m, but will not
+    actually link or delete any files.
+
+    If [1m--force[0m (or [1m-f[0m) is passed, Homebrew will allow keg-only formulae to be linked.
+
+[31mError:[0m Invalid usage: This command requires a keg argument
+[1m[7m%[27m[1m[0m                                                                                                              ]2;shenruijie@shenruijie-iMac: ~/Desktop/meiyuexiu_old/MeiYue/Tools/mskit]1;..e/Tools/mskit[0m[27m[24m[J
+[1m[34m#[00m [36mshenruijie [37m@ [32mshenruijie-iMac [37min [1m[33m~/Desktop/meiyuexiu_old/MeiYue/Tools/mskit[00m [37mon[00m git:[36mmaster [31mx[00m [37m[14:20:49] C:[31m1[00m
+[1m[31m$ [00m[K[?1h=[?2004hooepn   o  p oopen ./ini   [?1l>[?2004l
+]2;open ./]1;open[1m[7m%[27m[1m[0m                                                                                                              ]2;shenruijie@shenruijie-iMac: ~/Desktop/meiyuexiu_old/MeiYue/Tools/mskit]1;..e/Tools/mskit[0m[27m[24m[J
+[1m[34m#[00m [36mshenruijie [37m@ [32mshenruijie-iMac [37min [1m[33m~/Desktop/meiyuexiu_old/MeiYue/Tools/mskit[00m [37mon[00m git:[36mmaster [31mx[00m [37m[17:33:08] 
+[1m[31m$ [00m[K[?1h=[?2004hoopen ./init[1C    lldbinit[?1l>[?2004l
+]2;open ./lldbinit]1;openThe file /Users/shenruijie/Desktop/meiyuexiu_old/MeiYue/Tools/mskit/lldbinit does not exist.
+[1m[7m%[27m[1m[0m                                                                                                              ]2;shenruijie@shenruijie-iMac: ~/Desktop/meiyuexiu_old/MeiYue/Tools/mskit]1;..e/Tools/mskit[0m[27m[24m[J
+[1m[34m#[00m [36mshenruijie [37m@ [32mshenruijie-iMac [37min [1m[33m~/Desktop/meiyuexiu_old/MeiYue/Tools/mskit[00m [37mon[00m git:[36mmaster [31mx[00m [37m[17:33:30] C:[31m1[00m
+[1m[31m$ [00m[K[?1h=[?2004hopen ./lldbinit        lldb        o  ../[?1l>[?2004l
+]2;./]1;./[1m[7m%[27m[1m[0m                                                                                                              ]2;shenruijie@shenruijie-iMac: ~/Desktop/meiyuexiu_old/MeiYue/Tools/mskit]1;..e/Tools/mskit[0m[27m[24m[J
+[1m[34m#[00m [36mshenruijie [37m@ [32mshenruijie-iMac [37min [1m[33m~/Desktop/meiyuexiu_old/MeiYue/Tools/mskit[00m [37mon[00m git:[36mmaster [31mx[00m [37m[17:33:39] 
+[1m[31m$ [00m[K[?1h=[?2004hlls[?1l>[?2004l
+]2;ls -G]1;ls[1m[36mCatagories[39;49m[0m [1m[36mController[39;49m[0m [1m[36mMain[39;49m[0m       [1m[36mModel[39;49m[0m      [1m[36mPackage[39;49m[0m    README.md  [1m[36mTools[39;49m[0m      [1m[36mView[39;49m[0m       reload
+[1m[7m%[27m[1m[0m                                                                                                              ]2;shenruijie@shenruijie-iMac: ~/Desktop/meiyuexiu_old/MeiYue/Tools/mskit]1;..e/Tools/mskit[0m[27m[24m[J
+[1m[34m#[00m [36mshenruijie [37m@ [32mshenruijie-iMac [37min [1m[33m~/Desktop/meiyuexiu_old/MeiYue/Tools/mskit[00m [37mon[00m git:[36mmaster [31mx[00m [37m[17:33:40] 
+[1m[31m$ [00m[K[?1h=[?2004h/[?1l>[?2004l
+]2;/]1;/[1m[7m%[27m[1m[0m                                                                                                              ]2;shenruijie@shenruijie-iMac: /]1;/[0m[27m[24m[J
+[1m[34m#[00m [36mshenruijie [37m@ [32mshenruijie-iMac [37min [1m[33m/[00m [37m[17:33:46] 
+[1m[31m$ [00m[K[?1h=[?2004hlls[?1l>[?2004l
+]2;ls -G]1;ls[1m[36mApplications[39;49m[0m              [1m[36mVolumes[39;49m[0m                   [1m[36mhome[39;49m[0m                      [1m[36msbin[39;49m[0m
+[1m[36mLibrary[39;49m[0m                   [1m[36mbin[39;49m[0m                       installer.failurerequests [35mtmp[39;49m[0m
+[1m[36mNetwork[39;49m[0m                   [1m[36mcores[39;49m[0m                     [1m[36mnet[39;49m[0m                       [1m[36musr[39;49m[0m
+[1m[36mSystem[39;49m[0m                    [1m[36mdev[39;49m[0m                       [1m[36mopt[39;49m[0m                       [35mvar[39;49m[0m
+[1m[36mUsers[39;49m[0m                     [35metc[39;49m[0m                       [1m[36mprivate[39;49m[0m
+[1m[7m%[27m[1m[0m                                                                                                              ]2;shenruijie@shenruijie-iMac: /]1;/[0m[27m[24m[J
+[1m[34m#[00m [36mshenruijie [37m@ [32mshenruijie-iMac [37min [1m[33m/[00m [37m[17:33:47] 
+[1m[31m$ [00m[K[?1h=[?2004hoopen lldb      o  oopen .[?1l>[?2004l
+]2;open .]1;open[1m[7m%[27m[1m[0m                                                                                                              ]2;shenruijie@shenruijie-iMac: /]1;/[0m[27m[24m[J
+[1m[34m#[00m [36mshenruijie [37m@ [32mshenruijie-iMac [37min [1m[33m/[00m [37m[17:33:56] 
+[1m[31m$ [00m[K[?1h=[?2004huuser  u  //user/U[3Cs[1m/[0m[0m [?1l>[?2004l
+]2;/Users]1;/Users[1m[7m%[27m[1m[0m                                                                                                              ]2;shenruijie@shenruijie-iMac: /Users]1;/Users[0m[27m[24m[J
+[1m[34m#[00m [36mshenruijie [37m@ [32mshenruijie-iMac [37min [1m[33m/Users[00m [37m[17:34:09] 
+[1m[31m$ [00m[K[?1h=[?2004hlls[?1l>[?2004l
+]2;ls -G]1;ls[1m[36mGuest[39;49m[0m          [30m[42mShared[39;49m[0m         [1m[36mshenguanjiejie[39;49m[0m [1m[36mshenruijie[39;49m[0m
+[1m[7m%[27m[1m[0m                                                                                                              ]2;shenruijie@shenruijie-iMac: /Users]1;/Users[0m[27m[24m[J
+[1m[34m#[00m [36mshenruijie [37m@ [32mshenruijie-iMac [37min [1m[33m/Users[00m [37m[17:34:09] 
+[1m[31m$ [00m[K[?1h=[?2004hsshen
+[J[1;31mshenguanjiejie[0m/  [J[1;31mshenruijie[0m/    [J[A[0m[27m[24m[2Cshen[Kruijie[1m/[0m[0m [?1l>[?2004l
+[J]2;shenruijie]1;shenruijie[1m[7m%[27m[1m[0m                                                                                                              ]2;shenruijie@shenruijie-iMac: ~]1;~[0m[27m[24m[J
+[1m[34m#[00m [36mshenruijie [37m@ [32mshenruijie-iMac [37min [1m[33m~[00m [37m[17:34:15] 
+[1m[31m$ [00m[K[?1h=[?2004hlls[?1l>[?2004l
+]2;ls -G]1;ls[1m[36mApplications[39;49m[0m                 [1m[36mMusic[39;49m[0m                        hs_err_pid536.log
+[1m[36mDesktop[39;49m[0m                      [1m[36mNustore Files[39;49m[0m                [1m[36miCloud Drive（归档）[39;49m[0m
+[1m[36mDocuments[39;49m[0m                    [1m[36mPictures[39;49m[0m                     [1m[36miCloud Drive（归档） - 1[39;49m[0m
+[1m[36mDownloads[39;49m[0m                    [1m[36mPublic[39;49m[0m                       [30m[43msvn[39;49m[0m
+[1m[36mDropbox[39;49m[0m                      [1m[36mSites[39;49m[0m                        [1m[36mtheos[39;49m[0m
+[1m[36mLibrary[39;49m[0m                      [1m[36mbin[39;49m[0m
+[1m[36mMovies[39;49m[0m                       hs_err_pid19224.log
+[1m[7m%[27m[1m[0m                                                                                                              ]2;shenruijie@shenruijie-iMac: ~]1;~[0m[27m[24m[J
+[1m[34m#[00m [36mshenruijie [37m@ [32mshenruijie-iMac [37min [1m[33m~[00m [37m[17:34:16] 
+[1m[31m$ [00m[K[?1h=[?2004hoopen .   o  iini  llldb[1m [0m[0m [?1l>[?2004l
+]2;lldb]1;lldb(lldb) [1G[2m(lldb) [22m[8Gq
+[1m[7m%[27m[1m[0m                                                                                                              ]2;shenruijie@shenruijie-iMac: ~]1;~[0m[27m[24m[J
+[1m[34m#[00m [36mshenruijie [37m@ [32mshenruijie-iMac [37min [1m[33m~[00m [37m[17:34:26] 
+[1m[31m$ [00m[K[?1h=[?2004hlllb l  oopen .[?1l>[?2004l
+]2;open .]1;open[1m[7m%[27m[1m[0m                                                                                                              ]2;shenruijie@shenruijie-iMac: ~]1;~[0m[27m[24m[J
+[1m[34m#[00m [36mshenruijie [37m@ [32mshenruijie-iMac [37min [1m[33m~[00m [37m[17:34:30] 
+[1m[31m$ [00m[K[?1h=[?2004h

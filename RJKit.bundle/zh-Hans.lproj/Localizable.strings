@@ -1,0 +1,29 @@
+/* 
+  Localizable.strings
+  AppKing
+
+  Created by ShenRuijie on 2017/12/5.
+  Copyright © 2017年 shenruijie. All rights reserved.
+*/
+"done" = "完成";
+'OK' = '确定';
+'cancel' = '取消';
+'default' = '默认';
+'empty' = '没有数据';
+'location_request' = '需要获取您的定位权限,才能开启该功能';
+
+'location_denied' = '您禁止了定位权限';
+'location_open' = '是否前去开启定位权限?';
+'photo_denied' = '您禁止了相册访问权限';
+'photo_open' = '是否前去开启相册访问权限?';
+'camera_denied' = '您禁止了相机访问权限';
+'camera_open' = '是否前去开启相机访问权限?';
+'notification_request' = '您禁用了通知权限,是否前往系统设置开启通知?';
+'open_now' = '立即开启';
+'just_now' = '刚刚';
+'h_before' = '小时前';
+'m_before' = '分钟前';
+'yesterday' = '昨天';
+'d_before' = '天前';
+'M_before' = '个月前';
+'y_before' = '年前';

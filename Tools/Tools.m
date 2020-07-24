@@ -13,8 +13,6 @@
 #import "NSDate+JKExtension.h"
 #import <NSAttributedString+YYText.h>
 //#import <Luban_iOS/UIImage+Luban_iOS_Extension_h.h>
-#import "RJImagePickerManager.h"
-#import "RJCameraManager.h"
 
 @implementation Tools
 

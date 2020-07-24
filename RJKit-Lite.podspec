@@ -77,7 +77,6 @@ ss.source_files  = "Tools/*.{h,m}"
 ss.dependency 'RJKit-Lite/Fundation'
 ss.dependency 'RJKit-Lite/UIKit'
 ss.dependency 'RJKit-Lite/Model'
-ss.dependency 'RJKit-Lite/Tools'
 ss.dependency 'RJKit-Lite/View'
 end
 

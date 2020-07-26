@@ -8,7 +8,7 @@
 
 #import "RJContentViewCell.h"
 #import "UIView+Tools.h"
-#import "RJKiteLitePch.h"
+#import "RJKitLitePch.h"
 
 @implementation RJContentViewCell
 

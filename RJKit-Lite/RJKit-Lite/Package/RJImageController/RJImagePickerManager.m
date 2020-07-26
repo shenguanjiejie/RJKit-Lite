@@ -13,7 +13,7 @@
 #import "UIViewController+RJAlert.h"
 #import "UIApplication+RJPermission.h"
 #import "NSObject+RJObject.h"
-#import "RJKiteLitePch.h"
+#import "RJKitLitePch.h"
 
 @interface RJImagePickerManager ()<UINavigationControllerDelegate,UIImagePickerControllerDelegate,TZImagePickerControllerDelegate,RSKImageCropViewControllerDelegate,RSKImageCropViewControllerDataSource,UIGestureRecognizerDelegate>
 {

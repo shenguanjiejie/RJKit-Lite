@@ -7,7 +7,7 @@
 //
 
 #import "UIApplication+RJPermission.h"
-#import "RJKiteLitePch.h"
+#import "RJKitLitePch.h"
 
 @implementation UIApplication (RJPermission)
 

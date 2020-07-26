@@ -7,7 +7,7 @@
 //
 
 #import <Foundation/Foundation.h>
-#import "RJKiteLitePch.h"
+#import "RJKitLitePch.h"
 
 typedef NS_ENUM(NSUInteger, RJChooseItemState) {
     RJChooseItemStateNone,

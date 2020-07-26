@@ -8,7 +8,7 @@
 
 #import "RJCodeCell.h"
 #import "UITextField+RJInputLimit.h"
-#import "RJKiteLitePch.h"
+#import "RJKitLitePch.h"
 
 @implementation RJCodeCell
 

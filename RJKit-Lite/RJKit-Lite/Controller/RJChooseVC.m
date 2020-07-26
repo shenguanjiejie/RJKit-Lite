@@ -9,7 +9,7 @@
 #import "RJChooseVC.h"
 //#import "RJAFNTool.h"
 #import "DoneTableCell.h"
-#import "RJKiteLitePch.h"
+#import "RJKitLitePch.h"
 
 
 @interface RJChooseVC ()<UITableViewDelegate,UITableViewDataSource>

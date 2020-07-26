@@ -9,7 +9,7 @@
 #import <Foundation/Foundation.h>
 #import "Singleton.h"
 #import "User.h"
-#import "RJKiteLitePch.h"
+#import "RJKitLitePch.h"
 
 @interface RJUserDefault : NSObject
 

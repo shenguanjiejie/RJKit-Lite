@@ -12,7 +12,7 @@
 #import "RJImagePickerManager.h"
 #import "TBActionSheet.h"
 
-#import "RJKiteLitePch.h"
+#import "RJKitLitePch.h"
 #import "YBImageBrowser.h"
 //#import "RJVideoVC.h"
 //#import "YYCache+Qiniu.h"

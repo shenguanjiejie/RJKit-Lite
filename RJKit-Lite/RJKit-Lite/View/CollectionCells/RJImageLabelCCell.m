@@ -7,7 +7,7 @@
 //
 
 #import "RJImageLabelCCell.h"
-#import "RJKiteLitePch.h"
+#import "RJKitLitePch.h"
 @implementation RJImageLabelCCell
 
 - (instancetype)initWithFrame:(CGRect)frame

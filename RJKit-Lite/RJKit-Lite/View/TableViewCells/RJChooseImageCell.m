@@ -6,7 +6,7 @@
 //  Copyright © 2018年 diling. All rights reserved.
 //
 
-#import "RJKiteLitePch.h"
+#import "RJKitLitePch.h"
 #import "RJChooseImageCell.h"
 
 

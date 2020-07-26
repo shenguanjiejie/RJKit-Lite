@@ -7,7 +7,7 @@
 //
 
 #import <Foundation/Foundation.h>
-#import "RJKiteLitePch.h"
+#import "RJKitLitePch.h"
 //#import "RJPage.h"
 
 @interface SortItem : NSObject<NSCoding>

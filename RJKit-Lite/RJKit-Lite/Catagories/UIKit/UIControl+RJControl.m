@@ -8,7 +8,7 @@
 
 #import "UIControl+RJControl.h"
 #import "QMUILab.h"
-#import "RJKiteLitePch.h"
+#import "RJKitLitePch.h"
 @implementation UIControl (RJControl)
 
 QMUISynthesizeBOOLProperty(rj_ban, setRj_ban)

@@ -7,7 +7,7 @@
 //
 
 #import "RJVideoCollectionCell.h"
-#import "RJKiteLitePch.h"
+#import "RJKitLitePch.h"
 
 @implementation RJVideoCollectionCell
 

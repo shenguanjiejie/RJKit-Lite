@@ -10,7 +10,7 @@
 #import "UIButton+WebCache.h"
 #import <RJVFL/UIView+RJVFL.h>
 #import <SDWebImage/SDWebImage.h>
-#import "RJKiteLitePch.h"
+#import "RJKitLitePch.h"
 
 static __weak id rj_currentFirstResponder;
 

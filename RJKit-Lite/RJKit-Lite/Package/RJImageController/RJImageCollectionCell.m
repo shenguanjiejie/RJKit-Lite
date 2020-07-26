@@ -7,7 +7,7 @@
 //
 
 #import "RJImageCollectionCell.h"
-#import "RJKiteLitePch.h"
+#import "RJKitLitePch.h"
 
 @implementation RJImageCollectionCell
 

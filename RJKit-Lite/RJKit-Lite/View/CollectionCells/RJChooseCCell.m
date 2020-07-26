@@ -7,7 +7,7 @@
 //
 
 #import "RJChooseCCell.h"
-#import "RJKiteLitePch.h"
+#import "RJKitLitePch.h"
 @implementation RJChooseCCell
 - (instancetype)initWithFrame:(CGRect)frame
 {

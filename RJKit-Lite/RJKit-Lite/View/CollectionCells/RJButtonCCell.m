@@ -8,7 +8,7 @@
 
 #import "RJButtonCCell.h"
 #import "UIView+RJVFL.h"
-#import "RJKiteLitePch.h"
+#import "RJKitLitePch.h"
 @implementation RJButtonCCell
 
 - (instancetype)initWithFrame:(CGRect)frame

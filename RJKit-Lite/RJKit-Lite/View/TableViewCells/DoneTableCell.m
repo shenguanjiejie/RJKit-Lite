@@ -8,7 +8,7 @@
 
 #import "DoneTableCell.h"
 
-#import "RJKiteLitePch.h"
+#import "RJKitLitePch.h"
 @implementation DoneTableCell
 
 - (instancetype)initWithStyle:(UITableViewCellStyle)style reuseIdentifier:(NSString *)reuseIdentifier{

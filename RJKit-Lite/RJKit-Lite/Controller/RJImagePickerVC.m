@@ -13,7 +13,7 @@
 #import <Photos/Photos.h>
 #import "UIViewController+RJAlert.h"
 #import "UIApplication+RJPermission.h"
-#import "RJKiteLitePch.h"
+#import "RJKitLitePch.h"
 
 @interface RJImagePickerVC ()<UINavigationControllerDelegate,UITableViewDelegate,UITableViewDataSource,UIImagePickerControllerDelegate,TZImagePickerControllerDelegate,RSKImageCropViewControllerDelegate,RSKImageCropViewControllerDataSource,UIGestureRecognizerDelegate>
 {

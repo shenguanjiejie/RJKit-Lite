@@ -7,7 +7,7 @@
 //
 
 #import "UIViewController+RJNavigationBarView.h"
-#import "RJKiteLitePch.h"
+#import "RJKitLitePch.h"
 #import <objc/message.h>
 
 static void const *NavigationBarViewKey = @"NavigationBarViewKey";

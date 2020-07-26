@@ -8,7 +8,7 @@
 
 #import "SimpleCollectionCell.h"
 #import "YYCategories.h"
-#import "RJKiteLitePch.h"
+#import "RJKitLitePch.h"
 @implementation SimpleCollectionCell
 
 - (instancetype)initWithFrame:(CGRect)frame

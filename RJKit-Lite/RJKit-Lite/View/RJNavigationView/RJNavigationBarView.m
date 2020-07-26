@@ -9,7 +9,7 @@
 #import "RJNavigationBarView.h"
 #import "UIImage+Draw.h"
 #import "QMUIKit.h"
-#import "RJKiteLitePch.h"
+#import "RJKitLitePch.h"
 
 @interface RJNavigationBarView()<UICollectionViewDelegate,UICollectionViewDataSource,UICollectionViewDelegateFlowLayout>
 {

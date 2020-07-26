@@ -7,7 +7,7 @@
 //
 
 #import "RJImage.h"
-#import "RJKiteLitePch.h"
+#import "RJKitLitePch.h"
 
 NS_ASSUME_NONNULL_BEGIN
 

@@ -12,7 +12,7 @@
 #import <sys/utsname.h>
 #import "NSDate+JKExtension.h"
 #import "NSAttributedString+YYText.h"
-#import "RJKiteLitePch.h"
+#import "RJKitLitePch.h"
 //#import <Luban_iOS/UIImage+Luban_iOS_Extension_h.h>
 
 @implementation Tools

@@ -7,7 +7,7 @@
 //  https://github.com/632840804/HYBNSDateExtension
 
 #import "NSDate+JKExtension.h"
-#import "RJKiteLitePch.h"
+#import "RJKitLitePch.h"
 
 @implementation NSDate (JKExtension)
 

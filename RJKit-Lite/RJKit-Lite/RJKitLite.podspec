@@ -9,7 +9,7 @@ s.author             = { "shenguanjiejie" => "835166018@qq.com" }
 s.social_media_url   = "https://github.com/shenguanjiejie"
 s.platform     = :ios, "10.0"
 s.source       = { :git => "https://github.com/shenguanjiejie/RJKit-Lite.git", :tag => s.version.to_s }
-s.source_files  = "/RJKit-Lite/RJKit-Lite/**/*.*"
+s.source_files  = "RJKit-Lite/RJKit-Lite/**/*.*"
 s.requires_arc = true
 s.user_target_xcconfig = { 'CLANG_ALLOW_NON_MODULAR_INCLUDES_IN_FRAMEWORK_MODULES' => 'YES' }
 
